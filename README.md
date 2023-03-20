@@ -6,7 +6,7 @@ O objetivo do projeto foi analisar os dados referentes a pandemia de COVID-19, �
 
 ## Banco de Dados
 
-Foram utilizados dados obtidos na plataforma Coronavírus Brasil (https://covid.saude.gov.br/) no dia 07/11/2022. Os datasets estão localizados em [datasets](https://github.com/CarolLuz/analise_covid/tree/main/datasets "datasets").
+Foram utilizados dados obtidos na plataforma [Coronavírus Brasil](https://covid.saude.gov.br/) no dia 07/11/2022. Os datasets estão localizados em [datasets](https://github.com/CarolLuz/analise_covid/tree/main/datasets "datasets").
 
 ## Visualização dos dados
 Recomenda-se a visualização das análises através dos relatórios .html gerados, encontrados na pasta [relatórios_html](https://github.com/CarolLuz/analise_covid/tree/main/relat%C3%B3rios_html "relatórios_html"). Estes arquivos foram gerados para facilitar a visualização dos resultados, sem que o código precise ser rodado novamente, além de facilitar a interação gráfica. Também é recomendável abrir tanto os arquivos .html quanto os arquivos .ipynb usando o navegador **Mozilla Firefox**.
